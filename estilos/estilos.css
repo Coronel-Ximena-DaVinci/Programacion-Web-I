@@ -1,0 +1,193 @@
+
+.paginaconpadding {
+    padding: 20px;
+}
+#barradenavegacion{
+    display: block;
+    position: absolute;
+}
+
+body {
+    background-image: url(../imagenes/fondoimagen.jpg);
+    background-position:center;
+    text-justify:auto;
+    color: white;
+    padding-top: 80px;
+    padding-bottom: 40px;
+    font-size: 1em;
+    font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+    display: block;
+    color: white;
+    text-align: center;
+    border-radius: 40px;
+    padding: 5px 15px;
+    font-size: 2em;
+    font-family: 'Roboto Black', sans-serif;
+    
+}
+#filosofiahonda{
+    display: block;
+    text-align: right;
+}
+.honda{
+    color:red;
+}
+
+h2 {
+    display: block;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    padding: 5px 15px;
+    font-size: 1.50em;
+    font-family: 'Roboto Black', sans-serif;
+}
+
+h3 {
+    font-size: 1.25em;
+    font-family: 'Roboto Thin', sans-serif;
+    text-align: left;
+}
+
+#cuerpoespecificaciones {
+    display:block;
+    margin-top: 50px;
+}
+
+.navbar {
+    background-color: white;
+    box-shadow: 5px 5px 5px;
+    font-size: 1em;
+    font-family: 'Roboto Thin', sans-serif;
+}
+
+.navbar a {
+    color: black;
+    text-align: right;
+    text-decoration: none;
+    font-size: 1em;
+}
+
+.navbar a:hover {
+    background-color: floralwhite;
+    color: gray;
+}
+
+.navbar a:active {
+    background-color: gray;
+    color: gray;
+}
+
+a {
+    color: black;
+}
+.navbar-toggler-icon {
+    background-image: url(../imagenes/iconohamburguesa.png);
+}
+
+.navbar-toggler-icon:active {
+    background-image: url(../imagenes/iconomenu2.png);
+}
+
+
+/*#micarousel {
+    box-shadow: 10px 10px 10px #D6D6D6;
+}*/
+
+.carousel-inner img {
+    width: 100%;
+    height: 100%;
+}
+
+#indeximagenmobil {
+    position: absolute;
+     padding: 0;
+}
+
+.galeriadivcards {
+    padding: 30px;
+}
+
+.card {
+    box-shadow: -10px -10px 10px #AFAFAF;
+    margin-top: 40px;
+}
+
+.textomain {
+    margin-top: 50px;
+    padding-top: 10px;
+    color: white;
+    
+}
+
+p {
+    margin-top: 15px;
+}
+.novedades{
+    display: block;
+    text-align: right;    
+}
+.imgnovedades{
+    display: inline;
+    float: left;
+    margin: 25px;
+   
+}
+
+footer {
+    background-color: white;
+    color: black;
+    height: 25px;
+    font-family: 'Roboto Thin', sans-serif;
+    box-shadow: 2px -px 2px #DDDDDD;
+}
+
+footer p {
+    float: right;
+    padding-right: 10px;
+    margin-top: 0px;
+}
+
+footer a {
+    float: right;
+    padding-right: 10px;
+}
+
+footer a:active {
+    color: gray;
+}
+
+footer a:hover {
+    color: gray;
+}
+
+.contactoimagen {
+    display: inline;
+    padding: 5px;
+    box-shadow: 4px 4px 2px 1px;
+}
+.contactosections {
+    display: inline;
+    float: left;
+    padding: 5px 15px;
+    margin-top: 30px;
+}
+
+.contactoh3 {
+    display: inline;
+    margin-top: 30px;
+}
+
+.contactoiconos {
+    display: inline;
+    margin: 30px 0px;
+   
+}
+
+.contactoh2 {
+   text-align: center;
+   
+}
